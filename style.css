@@ -1,0 +1,157 @@
+body{
+	font-family: Ubuntu;
+    font-weight: 600;
+}
+.btn{
+	margin-left: 0;
+	padding-bottom: 0;
+	margin-bottom: 0;
+}
+.menu{
+	background-color: #468FC6;
+	padding: 20px 0px;
+}
+.menu ul li{
+	 list-style: none;
+    color: white;
+    display: inline-block;
+    margin-right: 50px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    font-family: Ubuntu;
+    font-weight: 600;
+}
+.menu ul li a{
+	margin-right: 1px solid white;
+
+}
+.search{
+	height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #f5f5f5;
+	border-radius: 15px;
+	background-color: #5ca1d2;
+	border-color: #5ca1d2;
+	position: relative;
+}
+
+.main_area{
+	margin-top: 10px;
+}
+.src i{
+	position: absolute;
+	right: 120px;
+	bottom: 10px;
+	color: white;
+	
+}
+.edit{
+	position: relative;
+}
+
+.edit h4{
+	background-color: #c9c7c6;
+	margin-top: 0;
+}
+.edit i{
+	position: absolute;
+	/*margin-bottom: 4px;*/
+	right: 25px;
+	bottom: 14px;
+}
+.border{
+	border: 2px solid #F0F0F0;
+	/*height: 200px;*/
+	/*background-color: white;*/
+}
+.bb{
+	background-color: #F1F1F1;
+}
+
+.profile img{
+	width: 70%;
+	padding: 20px 0px;
+}
+.details{
+	border:3px solid #F0F0F0;
+	text-align: center;
+	font-family: Ubuntu;
+    font-weight: 600;
+}
+
+.icon{
+	padding: 10px 0px;
+}
+
+.sky{
+	color: #6fc0db;
+}
+
+.blue{
+	color: #4c7998;
+	border-radius: 6px;
+}
+.red{
+	color: #c46452;
+	
+}
+.green{
+	color: #8bb47f;
+}
+.orange{
+	color: #e5aa62;
+}
+
+.tomato{
+	color: #e6524a;
+}
+
+.login{
+	/*float:left;*/
+	/*display: inline-block;*/
+}
+
+.in{
+	    margin-bottom: 20px;
+	    width: 80%;
+	    background-color: #FAFAFA
+	    border:none;
+	    border-radius: 5px;
+	    font-weight: 400;
+}
+
+.br{
+	border: 6px solid #F0F0F0;
+	margin-bottom: 20px;
+}
+
+.tx{
+	  	width: 84%;
+	    height: 140px;
+	    background-color: #FAFAFA
+	    border:none;
+	    border-radius: 5px;
+	    font-weight: 400;
+	    
+}
+
+#btn{
+	background-color: #74BBD7;
+	color: white;
+	border-radius: 5px;
+	border:none;
+	height: 45px;
+	width: 130px;
+}
+
+.soc{
+	border-bottom:2px solid #F0F0F0; 
+}
+
+.soc p{
+	color: #787878;
+	font-size: 12px;
+}
